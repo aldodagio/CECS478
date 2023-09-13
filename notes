@@ -1,0 +1,44 @@
+8/28/2023:
+- 2600 hz sound sequence creates a sudo (operator mode)
+- phone phreaks
+- phone phreak - capn crunch had a whistle from cereal box that made 2600 hz
+- steve's - beige box - steve wazniyak and steve jobs - allowed people to make free phone calls to pay for college
+8/30/2023:
+1. Create new
+2. Name your VM
+3. Set type to Linux
+4. Select Ubuntu (64-bit)
+5. If you have 16 GB then 2 GB
+
+- guest additions installations and restart after
+- shared clipboard and drag and drop - bidirectional
+
+error:
+error: cannot allocate kernel buffer.
+error: you need to load the kernel first.
+
+
+install linux to harddisk
+software sources - "mirrors" - test which one is faster
+
+by tuesday, fill out google docsv
+
+9/6/2023:
+- caesar cipher (shifting right/left)
+- substitution cipher
+- code wheels
+- book ciphers
+- rolling pad ciphers
+- germany had enigma machine
+- substitution 
+- transposition
+- hashing is not cryptography
+- hashing is not cypto strong
+- hashing is one way
+- symmetric crypto
+- asymmetric crypto (2 keys)
+- transport encryption (encrypt the thing that carries message)
+- RSA encryption - defacto encryption algo
+- ssh demonstrated using telnet
+- pgp encryption
+
