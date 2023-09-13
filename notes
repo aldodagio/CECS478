@@ -22,7 +22,6 @@ install linux to harddisk
 software sources - "mirrors" - test which one is faster
 
 by tuesday, fill out google docsv
-
 9/6/2023:
 - caesar cipher (shifting right/left)
 - substitution cipher
@@ -41,4 +40,20 @@ by tuesday, fill out google docsv
 - RSA encryption - defacto encryption algo
 - ssh demonstrated using telnet
 - pgp encryption
-
+09/13/2023:
+- TOR Browser video (Russia trying to get rid of TOR)
+- Transparency for Tor is key
+- open source / free software
+- public design documents and specs
+- DPI - deep packet inspection
+- the TOR protocol looks mostly like TLS but only if you dont look too carefully. 
+- russia is trying to get rid of TOR so they can censor their people?
+- blocked azure by ip address
+- atp couldnt do skype from russia and other apps
+- judge in russia said you must unblock tor in russia when a group of russians found their website was illegally blocked according to russian law. basically russian government broke their own law.
+- they also challenged google to take tor out of their app store
+- what is rt.com?
+- bidirectional blocking
+- what is snowflake really?
+- improve usability of arms race - 'user impact'
+- sanctions cause governments to censor more easily
