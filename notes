@@ -58,3 +58,27 @@ by tuesday, fill out google docsv
 - improve usability of arms race - 'user impact'
 - sanctions cause governments to censor more easily
 09/18/2023:
+- there was a speed bump during first batch of emails - i think prof was sending base64 encoded test
+- aws is linux command based
+- hashing is not encryption
+- base64 encodes text to shorten it - urls and such
+- for most part, any linux distro will keep file system fairly consistent
+- not common for boot directory to be separate
+- look for grub in boot directory
+- grub knows where it is located and needs instructions on what to do next
+- kernel resides in boot
+- kernel is essentially boss of OS
+- it is core piece of OS that decides things
+- everything else is just processes
+- everything in linux is a file
+- which is a good thing
+- dev folder is a folder of devices
+- tty (actually has to do with terminal) - teletype interface (see teleprinter)
+- think of it as terminal output
+- pts is ports?
+- system properties reside in /etc directory
+- generally under var is where you can find system logs
+- can be used to investigate things
+- can see who is connecting as well 
+- under va/log
+- syslog will tell you the connections establishing
