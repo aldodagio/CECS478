@@ -82,3 +82,34 @@ by tuesday, fill out google docsv
 - can see who is connecting as well 
 - under va/log
 - syslog will tell you the connections establishing
+09/20/2023:
+- Exam next week wednesday - bring Student ID
+- Will be on canvas quizzes
+- Allowed 1 page note - front and back
+- everything up to next week will be on exam: github, linux, pgp, probably CIA triad, and Russia video (TOR)
+- topic for today - customize your linux environment (dot files)
+- 'notify' #report the status of background jobs (zshell)
+- can customize the history of saved prompts on command line
+- command 'date' gives current date and time (-u will give you UTC time - aka system time)
+- config files conventionally have .rc 
+- vim vs nano
+- can have plugins for vim
+- Linux uses hierarchy with kernel at the top (root)
+- kernel is typically referred to as PI0 (process instance 0)
+- forking is duplicating a process
+- PID1 (init or systemd) - our process manager in future will kickoff more processes
+- PID0 is parent of PID1
+- kernel can have many children
+- hierarchy creates tree strucutre
+- children exit/kill once parent exits/killed
+- assume our process manager has child that is login script 
+- the login script has children (users who login)
+- then user can have children like browser, gui, shell
+- children can derive the permissions of their parent (never more, but can be less)
+- logging in as root you get root permissions
+- sudo can be used for any command to make it an admin run command
+Processes:
+- 'ps' command to see processes
+- sudo ps aux - see ALL processes
+- sudo ps aux - grep
+- grep is used to find 
