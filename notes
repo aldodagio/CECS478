@@ -113,3 +113,14 @@ Processes:
 - sudo ps aux - see ALL processes
 - sudo ps aux - grep
 - grep is used to find 
+09/25/2023:
+- Exam will be on wednesday 09/27/2023
+- pgp aims to solve the key exchange
+- Advanced Encryption Standard (AES)
+- combination of public and private key 
+- in order to encrypt we need to have recipients public key
+- the message gets encrypted using senders private key
+- the recipient then needs the senders public key to decrypt it 
+- that is the beauty of asymmetric encryption
+- one sheet of notes front and back
+- git will be on the test
