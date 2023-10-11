@@ -140,5 +140,30 @@ Processes:
 - changing pgp key allows you to switch up and take a target off your back
 - you may lose your reputation but it is better than going to prison
 - emphasizing switching pgp key
-- operation dark gold
+- operation dark gold 
+- Elk Cloner - boot sector virus that affected the apple 2 computer line
+10/11/2023:
+- 'saved' game is a frozen game
+- have to run 64 bit exe in virtual machine
+- we have to find a hidden password? 
+- self destruct ship by entering destruct command
+- put the credits in the beginning
+Brain Virus:
+- first known pc virus that affected any ibm hardware
+- secondly, the next virus was known as the 'stoned virus' 
+- got rid of check on flag and just infected computer nonetheless (floppy disks infected most the time)
+- scanned harddrives, disks, and any writable disks and infected them
+- "Your computer is now stoned"
+- it was pretty much impossible to get rid of
+- michaelangelo virus made headlines because it would wipe all files on a machine that was left on on March 6th
+Virus vs Worm:
+- worm (fast spreader) vs virus (harden)
+- POP is post office protocol
+- morris worm tried to count the number of nodes on the current internet
+- targeted UNIX OS
+- bob@mit! (!) is a BANG email address
+- he attempted to get login access to these machines by 2 exploits
+- email login system and bang email addresses
+- basically shutdown internet for a week because it kept replicating itself
+- robert morris
 - 
