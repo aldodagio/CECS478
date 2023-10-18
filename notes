@@ -184,4 +184,16 @@ Lecture:
 - bluetooth 1.0 didnt have much security 
 - thus enter the cabir worm, initially spread via bluetooth
 - unlimited data -original iphone and it also had great web browser
+10/18/2023:
+- ken thompson turing award winner and wrote the refections on tusting tust
+- thomson, brian kerneghan, dennis ritchie worked at bell labs and worked with circuit switches networks and packet switched networks
+- UNIX - bsd (berkley standard) and sys v (linux)
+- brian and dennis developed C
+- unix switches from mainframes to smaller computing
+- ken added backdoor to c compiler to login to any unix system
+- source code -> compiler -> lexical analysis -> parsing -> linking/asm -> optimization -> binary
+- do 'bug' - C bug by ken thompson
+- bug was placed after source code to get directly to binary
 - 
+
+
