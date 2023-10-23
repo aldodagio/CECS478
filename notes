@@ -194,6 +194,24 @@ Lecture:
 - source code -> compiler -> lexical analysis -> parsing -> linking/asm -> optimization -> binary
 - do 'bug' - C bug by ken thompson
 - bug was placed after source code to get directly to binary
-- 
-
-
+10/23/2023:
+Sword/Wand:
+- edit label in emulator to comment assembly code
+- if then is equivalent to compare branch
+- compare is a subtration operation and stores the results in flags
+- Zero, Carry, Negative flags
+- beq - branch if equal 
+- bne - branch if not equal
+- bcs - branch if carry set
+- bcc - branch if carry clear
+- zero flag is set if A - B = 0 AKA when they are equal
+- if the diagnol sprite was for a slashing movement, then why was the wand the one in question? and not the sword
+- eliminated wind up from sword to attack enemies immediately and faster strikes
+- wind up was by nintendo design
+- setting breakpoints
+- copy, paste, tweak, repeat
+Item drops:
+- are item drops random? or predictable?
+- drop turn is skipped in certain scenarios (when enemy gets split from sword not being strong enough)
+- and operation and xor operation used to calculate randomness, but was predictable
+-
