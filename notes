@@ -214,4 +214,23 @@ Item drops:
 - are item drops random? or predictable?
 - drop turn is skipped in certain scenarios (when enemy gets split from sword not being strong enough)
 - and operation and xor operation used to calculate randomness, but was predictable
--
+11/1/2023:
+- project malware - lifo/fifo stack/queue and little endian and big endian
+- rpn = reverse polish notation
+- no op or jump to get passed password
+- ransomware could fall as dos attach
+- confidentiality, integrity, availability
+- project chanology
+- 4chan (anonymous chat)
+- program - low orbit ion cannon - diagnostic tool that can be used as dos attack using networking protocols
+- ipx/spx - nobel
+- tcp/ip - open protocol that operates the internet
+- tcp packet - error collection (malformed, incorrect, etc)
+- error collection allows you to get data that mightbe been missed initially
+- ping flood takes up cpu resource - obviously traceable tho
+- ping of death - 
+- http, email protocol, etc use tcp
+- watching videos, getting video content uses UDP 
+- because udp streams as gets data, udp flood attacks are quite effective
+- tcp three way handshake for some validity of connection state
+- syn flood takes up pyshical connection states with dead services
