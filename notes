@@ -234,3 +234,41 @@ Item drops:
 - because udp streams as gets data, udp flood attacks are quite effective
 - tcp three way handshake for some validity of connection state
 - syn flood takes up pyshical connection states with dead services
+11/8/2023:
+- lab 3 will be after thanksgiving (last lab)
+- midtermm 2 is on the 15th - one sheet of notes front and back - malware buffer overflow exploits
+buffer overflow exploits:
+- 2 major types of dos attacks - tcp flood, ping flood, udp flood
+- syn spoof / syn attack - attacks connection states
+- a flood attack attacks the cpu
+- htop - process manager in linux
+- system load
+- syn spoof takes up the finite resources of connection states 
+- you end up not being able to connect because the states are all used up (in busy states)
+- slowloris attack
+- timeouts and time to live - if a connection state hasnt done anything for some time, then kill the connection
+- slowloris finds the ttl and ensures to refresh connection before time limit is reached
+- fighting this attack is troubling because we might be eliminating real connections
+- reflection attack - amplication attack 
+- reflection is a side-effect
+- amplification is on purpose (use big entity to attack smaller entity)
+- attacker senss rrquests to google and we send the traffic that google gets to csulb by editing destination in packets
+- slashdot / reddit hug of death
+- running out of connection states because you have too much real traffic
+- preventing ddos is very difficult
+- cdn - content delivery network
+- feefdom?
+- osi model 
+- internet is based off rfc (release for comment)
+- arpanet designed for missiles
+- darpa
+- ipx/spx (novel)
+- ssh is telnet with encryption basically
+- presentation layer could be the unpacking of an mp3 to play audio (spotify)
+- transport layer is basically tls (transport layer security)
+- email typically uses layer 2,3,4
+- physical, datalink, network, transport, session, presentation, application
+- datalink - how to form a packet
+- network, what the packet contains
+- physical layer is lines, copper, etc
+= 
