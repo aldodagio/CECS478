@@ -270,5 +270,21 @@ buffer overflow exploits:
 - physical, datalink, network, transport, session, presentation, application
 - datalink - how to form a packet
 - network, what the packet contains
-- physical layer is lines, copper, etc
+- physical layer is lines, copper, etc 
+11/13/2023:
+- dns lookup
+- ping
+- tracert
+- first hop in tracert was the gateway
+- the stars in a tracert doesnt want to respond to us - its private or its not giving us packets in return
+- tracert can help you carry out an attack because it gives you the full path 
+- but on larger networks the full path may be dynamic, which prevents the full path from being known
+- nmap will tell you what ports are open on the fiven destination
+- it doesnt mean its the only thing that is open, it can be just be that the other ones are hidden
+- port 80/tcp htto
+- port 443/tcp https
+- ping a destination, nmap that destination, tracert that destination
+= nslookup tells us ip address and server and public ip
+- whois destination returns public info on a particular domain name
+- ping tells you is it up can i connect? 
 = 
