@@ -287,4 +287,15 @@ buffer overflow exploits:
 = nslookup tells us ip address and server and public ip
 - whois destination returns public info on a particular domain name
 - ping tells you is it up can i connect? 
-= 
+11/27/2023:
+- arbitrary code execution
+- taskbot and safe/save-state
+- the legend of zelda: ocarina of time
+- 1998 - N64
+- stale reference manipulation
+- what is ace? an attack (not the owner of system) that gets code onto the system to execute 
+- to get to ace, we have to do some srm
+- use after free (using resource in memory)
+- actor heap
+- wtf is taskbot?
+- 
