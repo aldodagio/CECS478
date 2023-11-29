@@ -298,4 +298,15 @@ buffer overflow exploits:
 - use after free (using resource in memory)
 - actor heap
 - wtf is taskbot?
+11/29/2023:
+- an exploit like link moving a certain way or iphone jail break volume up and other control to confuse the program and insert arbitrary code
+- slammer work and ms sql server 2000
+- microsoft more vulnerable than other os's?
+- modding community comes from xbox exploit?
+- sasser worm
+- iphone vulnerable creating jailbreaking community
+- "homebrew"
+- buffer overflows are the most prevalent concern for comp security
+- essentially it can take control of a whole system (give any instruction)
+- when you compile c it turns into machine code
 - 
