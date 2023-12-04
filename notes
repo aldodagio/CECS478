@@ -309,4 +309,27 @@ buffer overflow exploits:
 - buffer overflows are the most prevalent concern for comp security
 - essentially it can take control of a whole system (give any instruction)
 - when you compile c it turns into machine code
-- 
+12/04/2023:
+- announcements
+- no lecture next week
+- 10:15 am exam
+- ta lecture on 12/6
+- shadow file is where password info is kept on linux
+- overloading program with path to shell
+- compile-time defenses (for code you write)
+- run-time defenses (for code you dont write)
+- "safe libraries" - libsafe library are not 100% compatible with the standard c library which causes them not always to work
+- "stack protectors" - rad (return address defender) 
+- it makes the stack unpredictable (as much as possible) to carry out an attack
+- canary and coal mine
+- canaries would get sick or die, then they knew it was time to leave
+- because canaries are high up in the air, theoretically they would feel the effects first
+- in computer security, a monitor (canary) is placed inside the stack between programs which tells the cpu if anything writes to that portion of stack, then trace it and kill it
+- run time defenses offer address space randomization
+- not all hardware and other tech is able to use address space randomization
+- canary is also considered guard page
+- guard page is some segments of memory that are illegal to read/write to/from
+- non-executable stackspace
+- variants (attacker overwrites global data)
+- global data overflow / heap overflow
+- kernel with version 2.4 or earlier is recommended but people have trouble with it
